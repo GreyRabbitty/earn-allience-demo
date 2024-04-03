@@ -2,4 +2,6 @@ export const DB_URL = "http://earn-alliance/postgres/db";
 export const DB_password = "earnAlliance";
 export const DB_PORT = 2000;
 export const DB_NAME = "EARN-Allaince";
-export const DB_TABLe_NAME = "Earn-Alliance"
+
+export const DB_TABLE_NAME = "EARN-Alliance";
+
