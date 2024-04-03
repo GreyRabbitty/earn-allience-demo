@@ -14,3 +14,4 @@ export const DB_TABLE_NAME7 = "EARN-Alliance";
 export const DB_TABLE_NAME8 = "EARN-Alliance";
 export const DB_TABLE_NAME9 = "EARN-Alliance";
 export const DB_TABLE_NAME10 = "EARN-Alliance";
+export const DB_TABLE_NAME11 = "EARN-Alliance";
